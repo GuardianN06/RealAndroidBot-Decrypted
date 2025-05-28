@@ -1,3 +1,7 @@
+Decrypted SourceDefender (.pye) files for the project. Since this was abandoned a while ago, releasing source would be educational :)
+21/24 files decrypted.
+
+
 # RealAndroidBot
 
 [![RAB Video Demo](https://img.youtube.com/vi/wtpJ9_av-qc/0.jpg)](https://www.youtube.com/watch?v=wtpJ9_av-qc)
