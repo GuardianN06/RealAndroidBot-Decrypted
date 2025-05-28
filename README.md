@@ -1,5 +1,5 @@
-Decrypted SourceDefender (.pye) files for the project. Since this was abandoned a while ago, releasing source would be educational :)
-21/24 files decrypted.
+# Decrypted SourceDefender (.pye) files for the project. Since this was abandoned a while ago, releasing source would be educational :)
+# 21/24 files decrypted.
 
 
 # RealAndroidBot
